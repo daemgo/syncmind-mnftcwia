@@ -1,0 +1,97 @@
+{
+  "source": "extract-from-input",
+  "inputType": "拜访记录",
+  "inputDate": "2026-04-01",
+  "extractedNeeds": [
+    {
+      "category": "business",
+      "title": "AI在企业应用分享",
+      "description": "客户希望我们做一次关于AI在企业的分享，以了解AI技术如何应用于企业运营",
+      "priority": "could",
+      "confidence": "high",
+      "source": {
+        "type": "customer-stated",
+        "detail": "客户原话：'希望我们做一次关于AI在企业的分享'",
+        "raw": "希望我们做一次关于AI在企业的分享"
+      },
+      "isNew": true
+    },
+    {
+      "category": "business",
+      "title": "AI相关需求",
+      "description": "客户表达了AI诉求，但具体需求内容未明确，需要进一步沟通明确",
+      "priority": "could",
+      "confidence": "medium",
+      "source": {
+        "type": "customer-stated",
+        "detail": "客户原话：'客户有AI诉求'",
+        "raw": "客户有AI诉求"
+      },
+      "isNew": true
+    },
+    {
+      "category": "business",
+      "title": "未明确的业务需求",
+      "description": "客户表达了讨论需求的意思，但具体需求内容未在素材中明确",
+      "priority": "could",
+      "confidence": "medium",
+      "source": {
+        "type": "sales-observation",
+        "detail": "拜访记录显示'与客户讨论需求'，但未记录具体需求内容",
+        "raw": ""
+      },
+      "isNew": true
+    }
+  ],
+  "extractedBackground": {
+    "businessContext": "",
+    "currentChallenges": [],
+    "triggerEvent": "",
+    "currentSystems": [],
+    "painPoints": []
+  },
+  "extractedConstraints": {
+    "budget": { "signal": "", "interpretation": "" },
+    "timeline": { "signal": "", "interpretation": "" },
+    "technical": [],
+    "organizational": []
+  },
+  "extractedPersons": [
+    {
+      "name": "张三",
+      "role": "",
+      "attitude": "不明确",
+      "influence": "不明确",
+      "concerns": [],
+      "quotes": []
+    },
+    {
+      "name": "李四",
+      "role": "",
+      "attitude": "不明确",
+      "influence": "不明确",
+      "concerns": [],
+      "quotes": []
+    }
+  ],
+  "salesInput": {
+    "overallAssessment": {
+      "customerIntent": "不明确",
+      "projectUrgency": "不明确",
+      "budgetSituation": "未知",
+      "competitionStatus": "不明确",
+      "winProbability": "不明确"
+    },
+    "notes": "",
+    "concerns": [],
+    "suggestions": []
+  },
+  "competitorInfo": [],
+  "meetingRecord": {
+    "date": "2026-04-01",
+    "type": "拜访",
+    "attendees": ["张三", "李四"],
+    "keyPoints": ["与客户讨论需求", "讨论了AI工具的使用，客户有AI诉求，希望我们做一次关于AI在企业的分享"],
+    "actionItems": ["整理需求文档", "安排技术交流", "提供方案建议", "准备AI企业分享材料", "整理AI需求文档", "安排AI技术交流"]
+  }
+}

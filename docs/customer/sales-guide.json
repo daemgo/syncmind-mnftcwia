@@ -160,8 +160,15 @@
 
     "metadata": {
       "generatedAt": "2026-03-25T12:00:00.000Z",
-      "updatedAt": "2026-03-25T12:00:00.000Z",
-      "version": "2.0"
-    }
+      "updatedAt": "2026-04-01T00:00:00.000Z",
+      "version": "2.1"
+    },
+    "changeSummary": [
+      {
+        "date": "2026-04-01",
+        "changes": ["更新metadata时间戳和版本号"],
+        "reason": "例行维护更新"
+      }
+    ]
   }
 }
