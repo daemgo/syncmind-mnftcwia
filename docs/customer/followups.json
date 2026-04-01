@@ -65,6 +65,39 @@
           "completedAt": null
         }
       ]
+    },
+    {
+      "id": 3,
+      "date": "2026-04-01",
+      "type": "拜访",
+      "content": "客户互动",
+      "attendees": [],
+      "actions": [
+        {
+          "action": "整理会议纪要",
+          "owner": "销售",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "安排下次沟通",
+          "owner": "销售",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "提供相关资料",
+          "owner": "销售",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        }
+      ]
     }
   ]
 }
