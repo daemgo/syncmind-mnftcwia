@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-04-01",
+      "type": "拜访",
+      "content": "与客户讨论需求",
+      "attendees": ["张三", "李四"],
+      "actions": [
+        {
+          "action": "整理需求文档",
+          "owner": "售前",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "安排技术交流",
+          "owner": "售前",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "提供方案建议",
+          "owner": "方案",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        }
+      ]
+    }
+  ]
+}
