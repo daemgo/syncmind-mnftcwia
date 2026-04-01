@@ -32,6 +32,39 @@
           "completedAt": null
         }
       ]
+    },
+    {
+      "id": 2,
+      "date": "2026-04-01",
+      "type": "拜访",
+      "content": "讨论了AI工具的使用，客户有AI诉求，希望我们做一次关于AI在企业的分享",
+      "attendees": [],
+      "actions": [
+        {
+          "action": "准备AI企业分享材料",
+          "owner": "售前",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "整理AI需求文档",
+          "owner": "售前",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "安排AI技术交流",
+          "owner": "售前",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        }
+      ]
     }
   ]
 }
